@@ -100,7 +100,7 @@ Compiles optimised, gzip-ready assets into the `dist/` folder.
 ```bash
 npm run preview
 ```
-Serves the `dist/` folder at [http://localhost:4173](http://localhost:4173).
+Serves the `dist/` folder at [http://localhost:5173](http://localhost:5173).
 
 ### 5. Run Linter
 ```bash
