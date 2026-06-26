@@ -135,27 +135,6 @@ To **add a new language**:
 
 ---
 
-## 🚢 Deployment (Vercel)
-
-This project deploys to Vercel with zero configuration.
-
-### Option A — Vercel Dashboard
-1. Push the repo to GitHub / GitLab / Bitbucket.
-2. Go to [vercel.com](https://vercel.com), click **Add New → Project**, import the repo.
-3. Vercel auto-detects Vite. Keep defaults:
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `dist`
-4. Click **Deploy**.
-
-### Option B — Vercel CLI
-```bash
-npm install -g vercel
-vercel login
-vercel          # preview deployment
-vercel --prod   # production deployment
-```
-
----
 
 ## 📝 SEO
 
