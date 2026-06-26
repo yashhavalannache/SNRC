@@ -1,0 +1,206 @@
+{
+  "navbar": {
+    "logo": "SNRC",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "whyLearn": "Why Japanese",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "applyNow": "Apply Now"
+  },
+  "hero": {
+    "badge": "Established in 2000 • 4.8★ Rating • 1700+ Reviews",
+    "title": "Master Japanese, Unlock Your Future",
+    "subtitle": "Join India's premium Japanese language institute. Learn from native and certified experts, prepare for JLPT, and connect with global career opportunities.",
+    "ctaStart": "Start Learning",
+    "ctaCourses": "Explore Courses",
+    "statEstablished": "Est. 2000",
+    "statRating": "4.8★ Rating",
+    "statReviews": "1700+ Reviews",
+    "statCorporate": "Corporate Training",
+   
+  "titleLine1": "Your Gateway to Japan,",
+  "titleLine2": "Rebuilt for",
+  "titleHighlight": "Success",
+
+    "cards": {
+      "n5": {
+        "title": "JLPT N5",
+        "desc": "Beginner Foundation & Basic Literacy"
+      },
+      "n4": {
+        "title": "JLPT N4",
+        "desc": "Elementary Grammar & Conversations"
+      },
+      "n3": {
+        "title": "JLPT N3",
+        "desc": "Intermediate Business & Daily Use"
+      },
+      "n2": {
+        "title": "JLPT N2",
+        "desc": "Advanced Fluent & Business Japanese"
+      },
+      "n1": {
+        "title": "JLPT N1",
+        "desc": "Native-Level Mastery & Professional"
+      }
+    }
+  },
+  "about": {
+    "badge": "Why Choose SNRC",
+    "title": "India's Leading Japanese Language Institute",
+    "p1": "Established in 2000, SNRC has been a pioneer in bridging the linguistic and cultural gap between India and Japan. We focus on providing high-quality, structured Japanese language education tailored to students, professionals, and corporate organizations.",
+    "p2": "Our team of highly experienced Indian instructors and Japanese native trainers utilize modern teaching methodologies to ensure students gain not just grammatical proficiency, but also real-world conversational confidence and deep cultural understanding.",
+    "highlight1": "25+ Years of Trust & Quality",
+    "highlight2": "Interactive Batches & Personal Attention",
+    "highlight3": "Rich Cultural Events & Orientation",
+    "highlight4": "100% Exam-Oriented Mock Tests"
+  },
+  "services": {
+    "badge": "Our Core Services",
+    "title": "Comprehensive Language Solutions",
+    "subtitle": "From beginner courses to advanced corporate programs, we cater to all your Japanese linguistic and training needs.",
+    "items": {
+      "courses": {
+        "title": "Japanese Language Courses",
+        "desc": "Comprehensive training for JLPT levels N5 through N1 with structured curricula and practice tests."
+      },
+      "jlpt": {
+        "title": "JLPT Preparation",
+        "desc": "Special intensive mock exams, grammar sessions, and listening practices targeted at clearing JLPT tests."
+      },
+      "corporate": {
+        "title": "Corporate Japanese Training",
+        "desc": "Customized business etiquette and language training designed specifically for tech, automotive, and IT companies."
+      },
+      "translation": {
+        "title": "Translation Services",
+        "desc": "High-accuracy, professional document translations for technical, legal, and business requirements."
+      },
+      "interpretation": {
+        "title": "Interpretation Services",
+        "desc": "Expert bilingual interpreters for business delegations, corporate meetings, audits, and conferences."
+      },
+      "culture": {
+        "title": "Cultural Training",
+        "desc": "Cross-cultural workshops covering Japanese business etiquettes, corporate manners, and lifestyles."
+      }
+    }
+  },
+  "whyJapanese": {
+    "badge": "The Power of Japanese",
+    "title": "Why Learn Japanese?",
+    "subtitle": "Learning Japanese is not just about a language; it is a strategic career asset that opens up global avenues.",
+    "items": {
+      "career": {
+        "title": "Career Opportunities",
+        "desc": "High demand for bilingual IT professionals, engineers, and translators in leading global corporations."
+      },
+      "salary": {
+        "title": "Higher Salary Potential",
+        "desc": "Bilingual skills command premium salary packages and faster promotions in multi-national firms."
+      },
+      "study": {
+        "title": "Study Abroad Options",
+        "desc": "Access prestigious scholarships (like MEXT) and world-class universities in Japan."
+      },
+      "culture": {
+        "title": "Japanese Culture",
+        "desc": "Deepen your understanding of Japanese heritage, values, anime, manga, and technological innovation."
+      },
+      "networking": {
+        "title": "Global Networking",
+        "desc": "Form strong connections with Japanese business partners, colleagues, and international professionals."
+      },
+      "demand": {
+        "title": "Corporate Demand",
+        "desc": "Japan's expanding investments and strategic partnerships in India create continuous job roles."
+      }
+    }
+  },
+  "trust": {
+    "title": "Over 2 Decades of Excellence",
+    "subtitle": "Our numbers reflect our commitment to delivering top-tier language training.",
+    "years": "Years of Excellence",
+    "reviews": "Google Reviews",
+    "rating": "Average Rating",
+    "students": "Students Trained",
+    "clients": "Corporate Clients",
+    "strip": {
+      "google": "Google Reviews 4.8★",
+      "jlpt": "100% JLPT Success Rate",
+      "corporate": "50+ Corporate Partners",
+      "experts": "Native Japanese Trainers",
+      "since": "Serving Since 2000"
+    }
+  },
+  "testimonials": {
+    "badge": "Student Success Stories",
+    "title": "What Our Learners Say",
+    "subtitle": "Hear from our alumni who have successfully transitioned to Japan or built bilingual careers.",
+    "items": [
+      {
+        "name": "Rahul Sharma",
+        "role": "Software Engineer, Tokyo",
+        "review": "The structured teaching at SNRC helped me clear JLPT N3. The mock interviews and placement support were invaluable in securing my job in Tokyo!"
+      },
+      {
+        "name": "Priya Patil",
+        "role": "Bilingual Analyst, Bangalore",
+        "review": "Excellent faculty and study material. The cultural training was an added bonus that helped me understand Japanese corporate work culture prior to joining my company."
+      },
+      {
+        "name": "Arjun Kumar",
+        "role": "Translator, IT Services",
+        "review": "Best place to learn Japanese in Bangalore. Instructors focus on conversation and practical usage, not just rules. The environment is extremely friendly."
+      },
+      {
+        "name": "Kenji Sato",
+        "role": "Delivery Lead, Global Tech",
+        "review": "SNRC designed a custom corporate training module for our engineers. Within months, their communication with Japanese stakeholders improved significantly."
+      },
+      {
+        "name": "Sneha Hegde",
+        "role": "Student, Waseda University",
+        "review": "I started learning at SNRC from N5 and reached N2. Their guidance helped me clear the entrance for Waseda University with a scholarship!"
+      }
+    ]
+  },
+  "clients": {
+    "badge": "Trusted Partners",
+    "title": "Our Corporate Clients",
+    "subtitle": "We provide language training, translation, and interpretation to leading multinational corporations."
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Start Your Journey Today",
+    "subtitle": "Have questions about courses, timings, or corporate batches? Drop us a line, and we will get back to you within 24 hours.",
+    "phone": "Phone Support",
+    "email": "Email Address",
+    "address": "Office Location",
+    "addrValue": "No. 45, 2nd Floor, Residency Road, Bangalore, Karnataka - 560025",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Select Course / Query",
+      "subjectOpt1": "JLPT Language Courses",
+      "subjectOpt2": "Corporate Training Inquiry",
+      "subjectOpt3": "Translation & Interpretation Services",
+      "subjectOpt4": "General Queries",
+      "message": "Write your message here...",
+      "submit": "Send Message",
+      "sending": "Sending Message...",
+      "successTitle": "Message Sent!",
+      "successText": "Thank you for reaching out to SNRC. Our language counselors will connect with you shortly.",
+      "sendAnother": "Send Another Message"
+    }
+  },
+  "footer": {
+    "desc": "SNRC is Bangalore's premier Japanese language school, empowering students and professionals to unlock international careers and bridge global horizons since 2000.",
+    "quickLinks": "Quick Links",
+    "social": "Connect with Us",
+    "rights": "All Rights Reserved."
+  }
+}
